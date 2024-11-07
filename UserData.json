@@ -2,15 +2,18 @@
     "users": [
         {
             "username": "user1",
-            "password": "password1"      
+            "password": "password1",
+            "role": "user"
         },
         {
             "username": "user2",
-            "password": "password2"
+            "password": "password2",
+            "role": "user"
         },
         {
-            "username": "Aorta",
-            "password": "admin"          
+            "username": "aortadev",
+            "password": "aortaadmin",
+            "role": "admin"
         }
     ]
 }
