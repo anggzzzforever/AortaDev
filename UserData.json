@@ -2,25 +2,18 @@
     "users": [
         {
             "username": "user1",
-            "password": "password1"
+            "password": "password1",
+            "expiryDate": "2024-12-31"
         },
         {
             "username": "user2",
-            "password": "password2"
+            "password": "password2",
+            "expiryDate": "2024-11-15"
         },
         {
             "username": "Aorta",
-            "password": "Aorta"
+            "password": "admin",
+            
         }
     ]
 }
-
-
-
-
-
-
-
-
-
-
