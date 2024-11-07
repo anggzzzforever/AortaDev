@@ -11,8 +11,8 @@
             "role": "user"
         },
         {
-            "username": "aortadev",
-            "password": "aortaadmin",
+            "username": "user45",
+            "password": "password45",
             "role": "admin"
         }
     ]
